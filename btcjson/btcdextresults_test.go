@@ -9,7 +9,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/stevenroose/go-bitcoin-core-rpc/btcjson"
+	"github.com/djkazic/go-bitcoin-core-rpc/btcjson"
 )
 
 // TestBtcdExtCustomResults ensures any results that have custom marshalling
